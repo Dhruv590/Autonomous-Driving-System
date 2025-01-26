@@ -31,7 +31,7 @@ In order to setup this project you're advised to clone this repository and make 
 
 Download the **CARLA server (0.9.8)** + **Additional Maps**, and make sure you've read the Prerequisites of this repo. Once the server is up and running, we can start our client with `python continuous_driver.py --exp-name=ppo --train=False` command. Don't forget to start the Carla server beforehand. Yey!!!
 
-## Built With
+## Built With:
 
 * [Python](https://www.python.org/downloads/release/python-370/) - Programming language
 * [PyTorch](https://pytorch.org/) - Open source machine learning framework
